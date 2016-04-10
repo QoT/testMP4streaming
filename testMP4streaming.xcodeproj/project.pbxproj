@@ -12,6 +12,7 @@
 		88E2CBFF1CBACE5400D5C75F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88E2CBFD1CBACE5400D5C75F /* Main.storyboard */; };
 		88E2CC011CBACE5400D5C75F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88E2CC001CBACE5400D5C75F /* Assets.xcassets */; };
 		88E2CC041CBACE5400D5C75F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88E2CC021CBACE5400D5C75F /* LaunchScreen.storyboard */; };
+		88E2CC0C1CBACE7100D5C75F /* 58c0648ae4ca9900f2d835feb77f165e_file.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 88E2CC0B1CBACE7100D5C75F /* 58c0648ae4ca9900f2d835feb77f165e_file.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		88E2CC001CBACE5400D5C75F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88E2CC031CBACE5400D5C75F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88E2CC051CBACE5400D5C75F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88E2CC0B1CBACE7100D5C75F /* 58c0648ae4ca9900f2d835feb77f165e_file.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = 58c0648ae4ca9900f2d835feb77f165e_file.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		88E2CBF81CBACE5400D5C75F /* testMP4streaming */ = {
 			isa = PBXGroup;
 			children = (
+				88E2CC0B1CBACE7100D5C75F /* 58c0648ae4ca9900f2d835feb77f165e_file.mp4 */,
 				88E2CBF91CBACE5400D5C75F /* AppDelegate.swift */,
 				88E2CBFB1CBACE5400D5C75F /* ViewController.swift */,
 				88E2CBFD1CBACE5400D5C75F /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				88E2CC041CBACE5400D5C75F /* LaunchScreen.storyboard in Resources */,
 				88E2CC011CBACE5400D5C75F /* Assets.xcassets in Resources */,
 				88E2CBFF1CBACE5400D5C75F /* Main.storyboard in Resources */,
+				88E2CC0C1CBACE7100D5C75F /* 58c0648ae4ca9900f2d835feb77f165e_file.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
